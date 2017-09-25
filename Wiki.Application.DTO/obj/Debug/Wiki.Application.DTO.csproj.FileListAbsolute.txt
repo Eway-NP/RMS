@@ -1,0 +1,10 @@
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Application.DTO\bin\Debug\Wiki.Application.DTO.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Application.DTO\bin\Debug\Wiki.Application.DTO.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Application.DTO\obj\Debug\Wiki.Application.DTO.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Application.DTO\obj\Debug\Wiki.Application.DTO.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Application.DTO\obj\Debug\Wiki.Application.DTO.csprojResolveAssemblyReference.cache
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Application.DTO\bin\Debug\Wiki.Application.DTO.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Application.DTO\bin\Debug\Wiki.Application.DTO.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Application.DTO\obj\Debug\Wiki.Application.DTO.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Application.DTO\obj\Debug\Wiki.Application.DTO.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Application.DTO\obj\Debug\Wiki.Application.DTO.csprojResolveAssemblyReference.cache

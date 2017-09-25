@@ -1,0 +1,9 @@
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Core.Data\bin\Debug\Wiki.Core.Data.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Core.Data\bin\Debug\Wiki.Core.Data.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Core.Data\obj\Debug\Wiki.Core.Data.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Core.Data\obj\Debug\Wiki.Core.Data.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Core.Data\bin\Debug\Wiki.Core.Data.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Core.Data\bin\Debug\Wiki.Core.Data.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Core.Data\obj\Debug\Wiki.Core.Data.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Core.Data\obj\Debug\Wiki.Core.Data.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Core.Data\obj\Debug\Wiki.Core.Data.csprojResolveAssemblyReference.cache

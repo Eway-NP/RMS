@@ -1,0 +1,7 @@
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.CoreBLL.Models\bin\Debug\Wiki.CoreBLL.Models.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.CoreBLL.Models\bin\Debug\Wiki.CoreBLL.Models.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.CoreBLL.Models\obj\Debug\Wiki.CoreBLL.Models.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.CoreBLL.Models\obj\Debug\Wiki.CoreBLL.Models.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.CoreBLL.Models\obj\Debug\Wiki.CoreBLL.Models.csprojResolveAssemblyReference.cache
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.CoreBLL.Models\obj\Debug\Wiki.CoreBLL.Models.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.CoreBLL.Models\obj\Debug\Wiki.CoreBLL.Models.pdb

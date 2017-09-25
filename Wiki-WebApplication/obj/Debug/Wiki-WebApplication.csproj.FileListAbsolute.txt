@@ -1,0 +1,196 @@
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\obj\Debug\Wiki-WebApplication.csprojResolveAssemblyReference.cache
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\NLog.config
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki-WebApplication.dll.config
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki-WebApplication.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki-WebApplication.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Antlr3.Runtime.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\EntityFramework.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\EntityFramework.SqlServer.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Google.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Web.Infrastructure.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Newtonsoft.Json.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Owin.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Net.Http.Formatting.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Helpers.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Http.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Http.WebHost.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Mvc.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Optimization.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Razor.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.Deployment.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.Razor.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\WebGrease.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Component.Tools.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Component.Data.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\NLog.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Component.Tools.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Newtonsoft.Json.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Helpers.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Mvc.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Optimization.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Razor.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.Deployment.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.Razor.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Antlr3.Runtime.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Net.Http.Formatting.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Http.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Http.WebHost.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\EntityFramework.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\EntityFramework.SqlServer.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Google.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Component.Data.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\NLog.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Helpers.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Mvc.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Optimization.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Razor.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.WebPages.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Http.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\EntityFramework.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\obj\Debug\Wiki-WebApplication.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\obj\Debug\Wiki-WebApplication.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Autofac.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Autofac.Integration.Mvc.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\AutoMapper.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Autofac.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Autofac.Integration.Mvc.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\AutoMapper.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\NLog.config
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki-WebApplication.dll.config
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki-WebApplication.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki-WebApplication.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Antlr3.Runtime.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Autofac.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Autofac.Integration.Mvc.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\EntityFramework.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\EntityFramework.SqlServer.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Google.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Web.Infrastructure.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Newtonsoft.Json.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Owin.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Net.Http.Formatting.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Helpers.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Http.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Http.WebHost.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Mvc.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Optimization.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Razor.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.Deployment.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.Razor.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\WebGrease.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Component.Data.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Component.Tools.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\AutoMapper.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\NLog.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Component.Data.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Component.Tools.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Autofac.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Autofac.Integration.Mvc.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Newtonsoft.Json.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Helpers.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Mvc.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Optimization.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Razor.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.Deployment.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.WebPages.Razor.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Antlr3.Runtime.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Net.Http.Formatting.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Http.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\System.Web.Http.WebHost.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\EntityFramework.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\EntityFramework.SqlServer.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Google.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\AutoMapper.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\NLog.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Helpers.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Mvc.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Optimization.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Razor.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.WebPages.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Http.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\EntityFramework.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\obj\Debug\Wiki-WebApplication.csprojResolveAssemblyReference.cache
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\obj\Debug\Wiki-WebApplication.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\obj\Debug\Wiki-WebApplication.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Core.Models.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Core.Models.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Core.Services.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication\bin\Wiki.Core.Services.pdb

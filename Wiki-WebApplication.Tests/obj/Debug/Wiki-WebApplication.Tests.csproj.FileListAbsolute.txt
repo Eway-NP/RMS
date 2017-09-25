@@ -1,0 +1,160 @@
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\NLog.config
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki-WebApplication.Tests.dll.config
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki-WebApplication.Tests.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki-WebApplication.Tests.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Helpers.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Mvc.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Razor.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki-WebApplication.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Optimization.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Owin.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Http.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\EntityFramework.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Component.Tools.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Http.WebHost.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Net.Http.Formatting.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Component.Data.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\NLog.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki-WebApplication.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Helpers.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Mvc.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Razor.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Optimization.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Http.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\EntityFramework.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Component.Tools.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Http.WebHost.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Net.Http.Formatting.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Component.Data.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\NLog.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Helpers.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Optimization.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.Owin.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\EntityFramework.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.Owin.Security.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Http.WebHost.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\obj\Debug\Wiki-WebApplication.Tests.csprojResolveAssemblyReference.cache
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\obj\Debug\Wiki-WebApplication.Tests.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\obj\Debug\Wiki-WebApplication.Tests.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Autofac.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\AutoMapper.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Autofac.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Autofac.Integration.Mvc.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\AutoMapper.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\NLog.config
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki-WebApplication.Tests.dll.config
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki-WebApplication.Tests.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki-WebApplication.Tests.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Helpers.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Mvc.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Razor.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki-WebApplication.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\EntityFramework.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Optimization.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Owin.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Http.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Autofac.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Component.Data.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Component.Tools.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Http.WebHost.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Net.Http.Formatting.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\AutoMapper.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\NLog.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki-WebApplication.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Helpers.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Mvc.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Razor.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\EntityFramework.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Optimization.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Http.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Autofac.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Component.Data.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Autofac.Integration.Mvc.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Component.Tools.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Web.Http.WebHost.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\System.Net.Http.Formatting.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\AutoMapper.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\NLog.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Helpers.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\EntityFramework.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Optimization.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.Owin.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.Owin.Security.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Web.Http.WebHost.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\obj\Debug\Wiki-WebApplication.Tests.csprojResolveAssemblyReference.cache
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\obj\Debug\Wiki-WebApplication.Tests.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\obj\Debug\Wiki-WebApplication.Tests.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Core.Models.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Core.Services.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Core.Models.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki-WebApplication.Tests\bin\Debug\Wiki.Core.Services.pdb

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0025B5BD-0039-4A50-864F-57128AF3B2C2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Wiki.Core.Models</RootNamespace>
+    <AssemblyName>Wiki.Core.Models</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Annotations">
+      <HintPath>..\packages\System.ComponentModel.Annotations.4.3.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Base_Access_Group.cs" />
+    <Compile Include="Models\Base_Access_GroupModule.cs" />
+    <Compile Include="Models\Base_Access_Module.cs" />
+    <Compile Include="Models\Base_Access_Role.cs" />
+    <Compile Include="Models\Base_Access_RoleGroup.cs" />
+    <Compile Include="Models\Base_Access_RoleGroupModule.cs" />
+    <Compile Include="Models\Base_Access_UserRole.cs" />
+    <Compile Include="Models\Base_Agents.cs" />
+    <Compile Include="Models\Base_Agents_Menu.cs" />
+    <Compile Include="Models\Base_Code.cs" />
+    <Compile Include="Models\Base_CodeInfo.cs" />
+    <Compile Include="Models\Base_CodeType.cs" />
+    <Compile Include="Models\Base_CodeTypeInfo.cs" />
+    <Compile Include="Models\Base_Company.cs" />
+    <Compile Include="Models\Base_CompanyInfo.cs" />
+    <Compile Include="Models\Base_Dept.cs" />
+    <Compile Include="Models\Base_EmailEnum.cs" />
+    <Compile Include="Models\Base_EmailModel.cs" />
+    <Compile Include="Models\Base_EmailOperationLog.cs" />
+    <Compile Include="Models\Base_EmailTemplateInfo.cs" />
+    <Compile Include="Models\Base_EmailTemplateTypeInfo.cs" />
+    <Compile Include="Models\Base_ExceptionLog.cs" />
+    <Compile Include="Models\Base_FileDept.cs" />
+    <Compile Include="Models\Base_FileInfo.cs" />
+    <Compile Include="Models\Base_FileOperationLog.cs" />
+    <Compile Include="Models\Base_FileRight.cs" />
+    <Compile Include="Models\Base_Flowoperationrecords.cs" />
+    <Compile Include="Models\Base_FlowUserPool.cs" />
+    <Compile Include="Models\Base_FormLog.cs" />
+    <Compile Include="Models\Base_GroupFileRight.cs" />
+    <Compile Include="Models\Base_Groups_Role.cs" />
+    <Compile Include="Models\Base_Groups_User.cs" />
+    <Compile Include="Models\Base_MainFlow.cs" />
+    <Compile Include="Models\Base_MainFlowTemplate.cs" />
+    <Compile Include="Models\Base_MenuInfo.cs" />
+    <Compile Include="Models\Base_Notice.cs" />
+    <Compile Include="Models\Base_OperationInfo.cs" />
+    <Compile Include="Models\Base_OperationLog.cs" />
+    <Compile Include="Models\Base_PermissionsInfo.cs" />
+    <Compile Include="Models\Base_Permissions_Menu.cs" />
+    <Compile Include="Models\Base_RightOperation.cs" />
+    <Compile Include="Models\Base_RoleFileRight.cs" />
+    <Compile Include="Models\Base_RoleInfo.cs" />
+    <Compile Include="Models\Base_Role_Permissions.cs" />
+    <Compile Include="Models\Base_SnapshotInfo.cs" />
+    <Compile Include="Models\Base_SystemLog.cs" />
+    <Compile Include="Models\Base_UserCompanyRight.cs" />
+    <Compile Include="Models\Base_UserGroupsInfo.cs" />
+    <Compile Include="Models\Base_UserInfo.cs" />
+    <Compile Include="Models\Base_UserManual.cs" />
+    <Compile Include="Models\Base_UserSystemSetting.cs" />
+    <Compile Include="Models\Base_User_Role.cs" />
+    <Compile Include="Models\Base_WorkflowFile.cs" />
+    <Compile Include="Models\Mapping\Base_Access_GroupMap.cs" />
+    <Compile Include="Models\Mapping\Base_Access_GroupModuleMap.cs" />
+    <Compile Include="Models\Mapping\Base_Access_ModuleMap.cs" />
+    <Compile Include="Models\Mapping\Base_Access_RoleGroupMap.cs" />
+    <Compile Include="Models\Mapping\Base_Access_RoleGroupModuleMap.cs" />
+    <Compile Include="Models\Mapping\Base_Access_RoleMap.cs" />
+    <Compile Include="Models\Mapping\Base_Access_UserRoleMap.cs" />
+    <Compile Include="Models\Mapping\Base_AgentsMap.cs" />
+    <Compile Include="Models\Mapping\Base_Agents_MenuMap.cs" />
+    <Compile Include="Models\Mapping\Base_CodeInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_CodeMap.cs" />
+    <Compile Include="Models\Mapping\Base_CodeTypeInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_CodeTypeMap.cs" />
+    <Compile Include="Models\Mapping\Base_CompanyInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_CompanyMap.cs" />
+    <Compile Include="Models\Mapping\Base_DeptMap.cs" />
+    <Compile Include="Models\Mapping\Base_EmailEnumMap.cs" />
+    <Compile Include="Models\Mapping\Base_EmailModelMap.cs" />
+    <Compile Include="Models\Mapping\Base_EmailOperationLogMap.cs" />
+    <Compile Include="Models\Mapping\Base_EmailTemplateInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_EmailTemplateTypeInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_ExceptionLogMap.cs" />
+    <Compile Include="Models\Mapping\Base_FileDeptMap.cs" />
+    <Compile Include="Models\Mapping\Base_FileInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_FileOperationLogMap.cs" />
+    <Compile Include="Models\Mapping\Base_FileRightMap.cs" />
+    <Compile Include="Models\Mapping\Base_FlowoperationrecordsMap.cs" />
+    <Compile Include="Models\Mapping\Base_FlowUserPoolMap.cs" />
+    <Compile Include="Models\Mapping\Base_FormLogMap.cs" />
+    <Compile Include="Models\Mapping\Base_GroupFileRightMap.cs" />
+    <Compile Include="Models\Mapping\Base_Groups_RoleMap.cs" />
+    <Compile Include="Models\Mapping\Base_Groups_UserMap.cs" />
+    <Compile Include="Models\Mapping\Base_MainFlowMap.cs" />
+    <Compile Include="Models\Mapping\Base_MainFlowTemplateMap.cs" />
+    <Compile Include="Models\Mapping\Base_MenuInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_NoticeMap.cs" />
+    <Compile Include="Models\Mapping\Base_OperationInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_OperationLogMap.cs" />
+    <Compile Include="Models\Mapping\Base_PermissionsInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_Permissions_MenuMap.cs" />
+    <Compile Include="Models\Mapping\Base_RightOperationMap.cs" />
+    <Compile Include="Models\Mapping\Base_RoleFileRightMap.cs" />
+    <Compile Include="Models\Mapping\Base_RoleInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_Role_PermissionsMap.cs" />
+    <Compile Include="Models\Mapping\Base_SnapshotInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_SystemLogMap.cs" />
+    <Compile Include="Models\Mapping\Base_UserCompanyRightMap.cs" />
+    <Compile Include="Models\Mapping\Base_UserGroupsInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_UserInfoMap.cs" />
+    <Compile Include="Models\Mapping\Base_UserManualMap.cs" />
+    <Compile Include="Models\Mapping\Base_UserSystemSettingMap.cs" />
+    <Compile Include="Models\Mapping\Base_User_RoleMap.cs" />
+    <Compile Include="Models\Mapping\Base_WorkflowFileMap.cs" />
+    <Compile Include="Models\Mapping\NLogMap.cs" />
+    <Compile Include="Models\NLog.cs" />
+    <Compile Include="Models\WikiWebapplicationContext.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Wiki.Component.Tools\Wiki.Component.Tools.csproj">
+      <Project>{0c61c91c-fd6e-4201-8103-2c3ea4422b50}</Project>
+      <Name>Wiki.Component.Tools</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

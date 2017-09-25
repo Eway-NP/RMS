@@ -1,0 +1,70 @@
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\obj\Debug\Wiki.Component.Tools.csprojResolveAssemblyReference.cache
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\NLog.config
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Wiki.Component.Tools.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Wiki.Component.Tools.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Newtonsoft.Json.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\NLog.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Wiki.Component.Data.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Wiki.Component.Data.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Newtonsoft.Json.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\NLog.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\obj\Debug\Wiki.Component.Tools.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\obj\Debug\Wiki.Component.Tools.pdb
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\AutoMapper.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Helpers.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Mvc.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Razor.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\EntityFramework.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\AutoMapper.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Helpers.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Mvc.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Razor.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\EntityFramework.xml
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.Helpers.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+H:\ASP.NET MVC+EF+BootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\EntityFramework.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\NLog.config
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Wiki.Component.Tools.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Wiki.Component.Tools.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\AutoMapper.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Newtonsoft.Json.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\NLog.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Helpers.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Mvc.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Razor.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\EntityFramework.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\AutoMapper.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\Newtonsoft.Json.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\NLog.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Helpers.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Mvc.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.Razor.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\EntityFramework.xml
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.Helpers.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\bin\Debug\zh-Hans\EntityFramework.resources.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\obj\Debug\Wiki.Component.Tools.dll
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\obj\Debug\Wiki.Component.Tools.pdb
+H:\ASP.NETMVCEFBootStarp\Wiki-WebApplication\Wiki.Component.Tools\obj\Debug\Wiki.Component.Tools.csprojResolveAssemblyReference.cache
