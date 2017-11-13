@@ -239,6 +239,10 @@ namespace Wiki.Component.Data.Implement
                 ? EFContext.Set<TEntity, TKey>().SqlQuery(sql, parameters)
                 : EFContext.Set<TEntity, TKey>().SqlQuery(sql, parameters).AsNoTracking();
         }
+        public void SqlQuery(Type elementType  ,string sql, params object[] parameters)
+        {
+             EFContext.DbContext.Database.SqlQuery(elementType,sql,parameters);
+        }
         public int ExecuteSqlCommand(string sql)
         {
             return EFContext.DbContext.Database.ExecuteSqlCommand(sql);

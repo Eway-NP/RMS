@@ -44,7 +44,7 @@ body {
   min-height: 100%;
   padding: 0px;
   margin: 0px;
-  background: #f5f5f5 url('../img/bg.png') left top repeat;
+  background: #f5f5f5 url('../Images/bg.jpg') left top repeat;
   position: relative;
   font-family: 'Open Sans', sans-serif;
   font-size: 12px;
@@ -105,7 +105,7 @@ body {
 .page-container .page-content {
   min-height: 100%;
   margin-left: 220px;
-  background: #f5f5f5 url('../img/bg.png') left top repeat;
+  background: #f5f5f5 url('../Images/bg.jpg') left top repeat;
   position: relative;
   zoom: 1;
 }
@@ -121,7 +121,7 @@ body {
   float: left;
   width: 100%;
   position: relative;
-  background: #f5f5f5 url('../img/bg.png') left top repeat;
+  background: #f5f5f5 url('../Images/bg.jpg') left top repeat;
 }
 .page-container .page-content .content-frame .content-frame-top {
   float: left;
@@ -3876,7 +3876,7 @@ td.dataTables_empty {
   float: left;
   width: 100%;
   min-height: 100%;
-  background: url("../img/bg.png") left top repeat #1e293d;
+  background: url("../Images/bg.jpg") left top repeat #1e293d;
 }
 .login-container .login-box {
   width: 400px;
@@ -3884,7 +3884,7 @@ td.dataTables_empty {
   padding-top: 100px;
 }
 .login-container .login-box .login-logo {
-  background: url("../img/logo.png") top center no-repeat;
+  background: url("../Images/logo.png") top center no-repeat;
   width: 100%;
   height: 50px;
   float: left;
@@ -5433,7 +5433,7 @@ div.datepicker thead tr:first-child th:hover {
 /* EOF BOOTSTRAP COLORPICKER */
 /* BOOTSTRAP SELECT */
 .bootstrap-select {
-  width: 220px \0;
+  width: 220px;
 }
 .bootstrap-select > .btn {
   width: 100%;
@@ -6603,7 +6603,7 @@ div.tagsinput div {
 }
 .file-preview-image {
   height: 150px;
-  vertical-align: text-center;
+  vertical-align:middle;
 }
 .file-preview-text {
   display: table-cell;
@@ -7254,7 +7254,7 @@ li.ext_zip {
   }
   .x-navigation.x-navigation-panel {
     height: 50px;
-    max-height: auto;
+    /*max-height: auto;*/
     overflow: visible;
   }
   .x-navigation.x-navigation-panel li.xn-icon-button {

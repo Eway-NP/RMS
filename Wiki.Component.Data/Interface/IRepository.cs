@@ -38,13 +38,14 @@ namespace Wiki.Component.Data.Interface
         #endregion
 
         #region 公共方法
+
         /// <summary>
         /// 检查实体是否存在
         /// </summary>
         /// <param name="predicate">查询条件谓语表达式</param>
         /// <param name="id">编辑的实体标识</param>
         /// <returns>是否存在</returns>
-        bool CheckExists(Expression<Func<TEntity, bool>> predicate, TKey id = default(TKey))
+        bool CheckExists(Expression<Func<TEntity, bool>> predicate, TKey id = default(TKey));
         /// <summary>
         ///     插入实体记录
         /// </summary>
@@ -125,6 +126,12 @@ namespace Wiki.Component.Data.Interface
         /// <param name="parameters">要应用于 SQL 查询字符串的参数。 如果使用输出参数，则它们的值在完全读取结果之前不可用。 这是由于 DbDataReader 的基础行为而导致的，有关详细信息，请参见 http://go.microsoft.com/fwlink/?LinkID=398589。</param>
         /// <returns></returns>
         IEnumerable<TEntity> SqlQuery(string sql, bool trackEnabled = true, params object[] parameters);
+        /// <summary>创建一个原始 SQL 查询，该查询将返回给定类型的元素。类型可以是包含与从查询返回的列名匹配的属性的任何类型，也可以是简单的基元类型。该类型不必是实体类型。即使返回对象的类型是实体类型，上下文也决不会跟踪此查询的结果。使用 <see cref="M:System.Data.Entity.DbSet.SqlQuery(System.String,System.Object[])" /> 方法可返回上下文跟踪的实体。与接受 SQL 的任何 API 一样，对任何用户输入进行参数化以便避免 SQL 注入攻击是十分重要的。您可以在 SQL 查询字符串中包含参数占位符，然后将参数值作为附加参数提供。您提供的任何参数值都将自动转换为 DbParameter。context.Database.SqlQuery(typeof(Post), "SELECT * FROM dbo.Posts WHERE Author = @p0", userSuppliedAuthor); 或者，您还可以构造一个 DbParameter 并将它提供给 SqlQuery。这允许您在 SQL 查询字符串中使用命名参数。context.Database.SqlQuery(typeof(Post), "SELECT * FROM dbo.Posts WHERE Author = @author", new SqlParameter("@author", userSuppliedAuthor));</summary>
+        /// <returns>一个 <see cref="T:System.Data.Entity.Infrastructure.DbRawSqlQuery" /> 对象，此对象在枚举时将执行查询。</returns>
+        /// <param name="elementType">查询所返回对象的类型。</param>
+        /// <param name="sql">SQL 查询字符串。</param>
+        /// <param name="parameters">要应用于 SQL 查询字符串的参数。如果使用输出参数，则它们的值在完全读取结果之前不可用。这是由于 DbDataReader 的基础行为而导致的，有关详细信息，请参见 http://go.microsoft.com/fwlink/?LinkID=398589。</param>
+        void SqlQuery(Type elementType, string sql, params object[] parameters);
         /// <summary>
         /// Database类进行更新，删除，插入
         /// </summary>

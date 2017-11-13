@@ -53,6 +53,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
@@ -90,6 +91,11 @@
     <Compile Include="Exception\BusinessException.cs" />
     <Compile Include="Exception\ComponentException.cs" />
     <Compile Include="Exception\DataAccessException.cs" />
+    <Compile Include="GlobalConfig\Factory\ConfigFactory.cs" />
+    <Compile Include="GlobalConfig\Implements\Email\EmailConfig.cs" />
+    <Compile Include="GlobalConfig\Implements\FileUpload\FileUploadConfig.cs" />
+    <Compile Include="GlobalConfig\Implements\Language\LanguageConfig.cs" />
+    <Compile Include="GlobalConfig\Interfaces\IConfig.cs" />
     <Compile Include="Helper\AutoMapperHelper.cs" />
     <Compile Include="Helper\ExceptionMessage.cs" />
     <Compile Include="Helper\OperationResult.cs" />
@@ -102,6 +108,12 @@
     <Compile Include="Helper\CombHelper.cs" />
     <Compile Include="Helper\PublicHelper.cs" />
     <Compile Include="Helper\StringHelper.cs" />
+    <Compile Include="Knockout\Implements\KoModeltoJsonHandle.cs" />
+    <Compile Include="Knockout\Interfaces\IKoModelToJson.cs" />
+    <Compile Include="Language\Extended\TranslatorHelper.cs" />
+    <Compile Include="Language\Implements\LanguageTranslator.cs" />
+    <Compile Include="Language\Interfaces\ITranslator.cs" />
+    <Compile Include="Language\Objects\Language.cs" />
     <Compile Include="Logging\Logger.cs" />
     <Compile Include="Logging\LogLevel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -119,6 +131,9 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Email\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

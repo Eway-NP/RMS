@@ -48,6 +48,10 @@
       <HintPath>..\packages\Autofac.Mvc5.4.0.2\lib\net45\Autofac.Integration.Mvc.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Elmah, Version=1.2.14706.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\elmah.corelibrary.1.2.2\lib\Elmah.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
@@ -192,6 +196,7 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Readme\Elmah.txt" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\css\animate\animate.css" />
@@ -269,8 +274,10 @@
     <Content Include="Content\Images\gallery\nature-7.jpg" />
     <Content Include="Content\Images\gallery\space-1.jpg" />
     <Content Include="Content\Images\gallery\space-2.jpg" />
+    <Content Include="Content\Images\logo.png" />
     <Content Include="Content\Images\nature.jpg" />
     <Content Include="Content\Images\ocean.jpg" />
+    <Content Include="Content\Images\bg.jpg" />
     <Content Include="Content\Images\users\avatar.jpg" />
     <Content Include="Content\Images\users\no-image.jpg" />
     <Content Include="Content\Images\users\user.jpg" />
