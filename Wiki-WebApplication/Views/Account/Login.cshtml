@@ -1,4 +1,5 @@
-﻿@{
+﻿@using Wiki.Component.Tools.Language.Extended
+@{
     Layout = "";
 }
 <!DOCTYPE html>
@@ -40,7 +41,7 @@
                             <a href="#" class="btn btn-link btn-block">Forgot your password?</a>
                         </div>
                         <div class="col-md-12">
-                            <button class="btn btn-info btn-block">Log In</button>
+                            <button class="btn btn-info btn-block">@TranslatorHelper.Translator("LoginBtn")</button>
                         </div>
                     </div>
                 </form>

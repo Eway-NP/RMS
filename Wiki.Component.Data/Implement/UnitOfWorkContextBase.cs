@@ -11,23 +11,15 @@
 ** </copyright>
 *********************************************************************************/
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Data;
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
-using System.Data.Entity.Validation;
 using System.Data.SqlClient;
-using System.Linq;
 using System.Linq.Expressions;
-using System.Runtime.Remoting.Messaging;
-using System.Text;
-using System.Threading.Tasks;
 using Wiki.Component.Data.Extensions;
 using Wiki.Component.Data.Interface;
 using Wiki.Component.Tools;
 using Wiki.Component.Tools.Helper;
-using Wiki.Core.Models.Models;
 
 namespace Wiki.Component.Data.Implement
 {

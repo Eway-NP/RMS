@@ -10,15 +10,9 @@
 ** 最后修改世间：2017/9/25 9:59:53
 ** </copyright>
 *********************************************************************************/
-using System;
-using System.Collections.Generic;
-using System.Configuration;
+
 using System.Data.Entity;
-using System.Linq;
 using System.Runtime.Remoting.Messaging;
-using System.Text;
-using System.Threading.Tasks;
-using Wiki.Component.Tools.Extensions;
 using Wiki.Core.Models.Models;
 
 namespace Wiki.Component.Data.Implement
